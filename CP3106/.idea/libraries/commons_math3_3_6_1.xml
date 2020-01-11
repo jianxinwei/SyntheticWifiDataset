@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="commons-math3-3.6.1">
+    <CLASSES>
+      <root url="jar://D:/Program/Java/lib/commons-math3-3.6.1/commons-math3-3.6.1.jar!/" />
+      <root url="file://D:/Program/Java/lib/commons-lang3-3.9" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/Program/Java/lib/commons-lang3-3.9" />
+    </SOURCES>
+    <jarDirectory url="file://D:/Program/Java/lib/commons-lang3-3.9" recursive="false" />
+    <jarDirectory url="file://D:/Program/Java/lib/commons-lang3-3.9" recursive="false" type="SOURCES" />
+  </library>
+</component>
